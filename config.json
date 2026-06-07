@@ -24,6 +24,19 @@
 		"autoRefreshThreadInfoFirstTime": true
 	},
 	"timeZone": "Africa/Abidjan",
+"credentials": {
+    "gmailAccount": {
+        "email": "",
+        "clientId": "",
+        "clientSecret": "",
+        "refreshToken": "",
+        "apiKey": ""
+    },
+    "gRecaptcha": {
+        "siteKey": "",
+        "secretKey": ""
+    }
+},
 	"dashBoard": {
 		"enable": true,
 		"expireVerifyCode": 300000,
